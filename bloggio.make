@@ -5,43 +5,42 @@ api = 2
 
 projects[admin][subdir] = "contrib"
 
-projects[admin][subdir] = "contrib"
+projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0-rc1"
 
-projects[admin][subdir] = "contrib"
+projects[date][subdir] = "contrib"
 projects[date][version] = "2.0-alpha4"
 
-projects[admin][subdir] = "contrib"
+projects[disqus][subdir] = "contrib"
 projects[disqus][version] = "1.9"
 
-projects[admin][subdir] = "contrib"
+projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta4"
 
-projects[admin][subdir] = "contrib"
+projects[media][subdir] = "contrib"
 projects[media][version] = "1.0-rc1"
 
-projects[admin][subdir] = "contrib"
+projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.0-rc2"
 
-projects[admin][subdir] = "contrib"
+projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.0"
 
-projects[admin][subdir] = "contrib"
+projects[social_share][subdir] = "contrib"
 projects[social_share][version] = "1.10"
 
-projects[admin][subdir] = "contrib"
+projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta5"
 
-projects[admin][subdir] = "contrib"
+projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"
 
-projects[][subdir] = "contrib"
-projects[][version] = ""
-projects[admin][subdir] = "contrib"
+projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-beta3"
 
 ; Themes
-projects[admin][subdir] = "contrib"
+; projects[blogbuzz][type] = theme
+projects[blogbuzz][subdir] = "contrib"
 projects[blogbuzz][version] = "1.0-rc2"
 
 ; Libraries
