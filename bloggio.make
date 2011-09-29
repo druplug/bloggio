@@ -26,8 +26,8 @@ projects[pathauto][version] = "1.0-rc2"
 projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.0"
 
-projects[social_share][subdir] = "contrib"
-projects[social_share][version] = "1.10"
+projects[social-share][subdir] = "contrib"
+projects[social-share][version] = "1.10"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta5"
@@ -45,7 +45,7 @@ projects[blogbuzz][version] = "1.0-rc2"
 
 ; Libraries
 libraries[tinymce][download][type] = "get"
-libraries[tinymce][download][url] = "http://www.tinymce.com/track.php?url=http%3A%2F%2Fgithub.com%2Fdownloads%2Ftinymce%2Ftinymce%2Ftinymce_3.4.6.zip"
+libraries[tinymce][download][url] = "http://www.tinymce.com/track.php?url=http://github.com/downloads/tinymce/tinymce/tinymce_3.4.6.zip"
 libraries[tinymce][download][directory_name] = "tinymce"
 libraries[tinymce][download][destination] = "libraries"
 
