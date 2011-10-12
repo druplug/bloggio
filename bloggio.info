@@ -1,0 +1,53 @@
+name = Bloggio
+description = Blogging distribution for Drupal.
+version = 1.0
+core = 7.x
+
+; standard modules
+dependencies[] = admin
+dependencies[] = block
+dependencies[] = blog
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = overlay
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = toolbar
+dependencies[] = user
+
+; contrib modules
+dependencies[] = ctools
+dependencies[] = date
+dependencies[] = disqus
+dependencies[] = features
+dependencies[] = media
+dependencies[] = pathauto
+dependencies[] = scheduler
+dependencies[] = social-share
+dependencies[] = token
+dependencies[] = views
+dependencies[] = wysiwyg
+dependencies[] = xmlsitemap
+
+; custom modules
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+dependencies[] = 
+
+files[] = bloggio.profile
+
