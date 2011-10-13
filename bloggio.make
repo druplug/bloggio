@@ -29,8 +29,9 @@ projects[pathauto][version] = "1.0-rc2"
 projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.0"
 
-projects[social-share][subdir] = "contrib"
-projects[social-share][version] = "1.10"
+projects[social_share][download][type] = "git"
+projects[social_share][subdir] = "contrib"
+projects[social_share][download][url] = git://github.com/lakshminp/social_share.git
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta5"
