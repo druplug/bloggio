@@ -8,6 +8,9 @@ projects[admin][subdir] = "contrib"
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0-rc1"
 
+projects[contact_forms][subdir] = "contrib"
+projects[contact_forms][version] = "1.2"
+
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.0-alpha4"
 
@@ -31,6 +34,9 @@ projects[social-share][version] = "1.10"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta5"
+
+projects[views][subdir] = "contrib"
+projects[views][version] = "3.0-rc1"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"

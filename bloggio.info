@@ -30,6 +30,7 @@ dependencies[] = toolbar
 dependencies[] = user
 
 ; contrib modules
+dependencies[] = contact_forms
 dependencies[] = ctools
 dependencies[] = date
 dependencies[] = disqus
@@ -44,10 +45,6 @@ dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 
 ; custom modules
-dependencies[] = 
-dependencies[] = 
-dependencies[] = 
-dependencies[] = 
 
 files[] = bloggio.profile
 
