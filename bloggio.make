@@ -29,6 +29,7 @@ projects[pathauto][version] = "1.0-rc2"
 projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.0"
 
+projects[social_share][type] = module
 projects[social_share][download][type] = "git"
 projects[social_share][subdir] = "contrib"
 projects[social_share][download][url] = git://github.com/lakshminp/social_share.git
@@ -46,7 +47,6 @@ projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-beta3"
 
 ; Themes
-; projects[blogbuzz][type] = theme
 projects[blogbuzz][subdir] = "contrib"
 projects[blogbuzz][version] = "1.0-rc2"
 
