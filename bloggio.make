@@ -40,6 +40,21 @@ projects[token][version] = "1.0-beta5"
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.0-rc1"
 
+projects[workbench][subdir] = "contrib"
+projects[workbench][version] = "1.0"
+
+projects[workbench_access][subdir] = "contrib"
+projects[workbench_access][version] = "1.0"
+
+projects[workbench_files][subdir] = "contrib"
+projects[workbench_files][version] = "1.0"
+
+projects[workbench_media][subdir] = "contrib"
+projects[workbench_media][version] = "1.0"
+
+projects[workbench_moderation][subdir] = "contrib"
+projects[workbench_moderation][version] = "1.0"
+
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"
 
