@@ -25,7 +25,6 @@ projects[features][version] = "1.0-beta4"
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 1.x-dev
-projects[file_entity][patch][http://drupal.org/files/issues/views-field-file-rendered-1215712-33.patch] = http://drupal.org/files/issues/views-field-file-rendered-1215712-33.patch
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.0-rc1"
