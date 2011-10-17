@@ -234,10 +234,5 @@ function bloggio_config_form($form, &$form_state) {
  */
 function bloggio_config_form_submit($form, &$form_state) {
   drupal_set_message(t('Submitting values: @values', array('@values' => var_export($form_state['values'], TRUE))));
-    $format = new stdClass();
-    $format->format = 'ckeditor';
-    $format->name = 'CKEditor';
-    $format->roles = array( 0 => 1, 1 => 1, 2 => 1);
-    filter_format_save($format);
 }
 

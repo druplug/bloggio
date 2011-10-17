@@ -17,8 +17,15 @@ projects[date][version] = "2.0-alpha4"
 projects[disqus][subdir] = "contrib"
 projects[disqus][version] = "1.9"
 
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.0-beta10
+
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta4"
+
+projects[file_entity][subdir] = contrib
+projects[file_entity][version] = 1.x-dev
+projects[file_entity][patch][http://drupal.org/files/issues/views-field-file-rendered-1215712-33.patch] = http://drupal.org/files/issues/views-field-file-rendered-1215712-33.patch
 
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.0-rc1"
@@ -33,6 +40,9 @@ projects[social_share][type] = module
 projects[social_share][download][type] = "git"
 projects[social_share][subdir] = "contrib"
 projects[social_share][download][url] = git://github.com/lakshminp/social_share.git
+
+projects[styles][subdir] = contrib
+projects[styles][version] = 2.0-alpha8
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta5"
@@ -57,6 +67,7 @@ projects[workbench_moderation][version] = "1.0"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"
+projects[wysiwyg][patch][http://drupal.org/files/issues/wysiwyg-7.x-2.x-entity-exportables-624018-208_drush_make.patch] = http://drupal.org/files/issues/wysiwyg-7.x-2.x-entity-exportables-624018-208_drush_make.patch
 
 projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-beta3"
