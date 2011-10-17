@@ -46,6 +46,7 @@ dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 
 ; custom modules
+dependencies[] = wysiwyg_features
 
 files[] = bloggio.profile
 

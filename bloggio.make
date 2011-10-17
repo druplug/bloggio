@@ -67,6 +67,11 @@ projects[workbench_moderation][version] = "1.0"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.1"
 
+projects[wysiwyg_features][type] = module
+projects[wysiwyg_features][download][type] = "git"
+projects[wysiwyg_features][subdir] = "custom"
+projects[wysiwyg_features][download][url] = git://github.com/lakshminp/wysiwyg_features.git
+
 projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-beta3"
 
