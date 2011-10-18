@@ -75,6 +75,13 @@ projects[wysiwyg_features][download][url] = git://github.com/lakshminp/wysiwyg_f
 projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-beta3"
 
+; Development related
+projects[coder][subdir] = "dev"
+projects[coder][version] = "1.0"
+
+projects[devel][subdir] = "dev"
+projects[devel][version] = "1.2"
+
 ; Themes
 projects[blogbuzz][subdir] = "contrib"
 projects[blogbuzz][version] = "1.0-rc2"
