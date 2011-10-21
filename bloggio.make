@@ -32,13 +32,26 @@ projects[media][version] = "1.0-rc1"
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.0-rc2"
 
+projects[save_as_draft][type] = module
+projects[save_as_draft][download][type] = "git"
+projects[save_as_draft][subdir] = "contrib"
+projects[save_as_draft][download][url] = git://github.com/lakshminp/save_as_draft.git
+
 projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.0"
+
+projects[simplify][type] = module
+projects[simplify][download][type] = "git"
+projects[simplify][subdir] = "contrib"
+projects[simplify][download][url] = git://github.com/lakshminp/simplify.git
 
 projects[social_share][type] = module
 projects[social_share][download][type] = "git"
 projects[social_share][subdir] = "contrib"
 projects[social_share][download][url] = git://github.com/lakshminp/social_share.git
+
+projects[strongarm][subdir] = contrib
+projects[strongarm][version] = 2.0-beta4
 
 projects[styles][subdir] = contrib
 projects[styles][version] = 2.0-alpha8
@@ -81,6 +94,9 @@ projects[coder][version] = "1.0"
 
 projects[devel][subdir] = "dev"
 projects[devel][version] = "1.2"
+
+projects[simpletest][subdir] = "dev"
+projects[simpletest][version] = "2.0"
 
 ; Themes
 projects[blogbuzz][subdir] = "contrib"

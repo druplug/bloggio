@@ -40,6 +40,7 @@ dependencies[] = media
 dependencies[] = pathauto
 dependencies[] = scheduler
 dependencies[] = social_share
+dependencies[] = strongarm
 dependencies[] = token
 dependencies[] = views
 dependencies[] = wysiwyg
@@ -47,6 +48,8 @@ dependencies[] = xmlsitemap
 
 ; custom modules
 dependencies[] = wysiwyg_features
+dependencies[] = save_as_draft
+dependencies[] = simplify
 
 files[] = bloggio.profile
 
