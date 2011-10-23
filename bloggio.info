@@ -47,6 +47,7 @@ dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
 
 ; custom modules
+dependencies[] = bloggio_features
 dependencies[] = wysiwyg_features
 dependencies[] = save_as_draft
 dependencies[] = simplify

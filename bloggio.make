@@ -5,6 +5,11 @@ api = 2
 
 projects[admin][subdir] = "contrib"
 
+projects[bloggio_features][type] = module
+projects[bloggio_features][download][type] = "git"
+projects[bloggio_features][subdir] = "custom"
+projects[bloggio_features][download][url] = git://github.com/lakshminp/bloggio_features.git
+
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0-rc1"
 
