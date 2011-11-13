@@ -11,5 +11,5 @@ projects[] = drupal
 ; Setup the videola profile from this make file stub.
 projects[bloggio][type] = "profile"
 projects[bloggio][download][type] = git
-projects[bloggio][download][url] = https://github.com/lakshminp/bloggio.git
+projects[bloggio][download][url] = https://github.com/druplug/bloggio.git
 

@@ -8,7 +8,7 @@ projects[admin][subdir] = "contrib"
 projects[bloggio_features][type] = module
 projects[bloggio_features][download][type] = "git"
 projects[bloggio_features][subdir] = "custom"
-projects[bloggio_features][download][url] = git://github.com/lakshminp/bloggio_features.git
+projects[bloggio_features][download][url] = git://github.com/druplug/bloggio_features.git
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.0-rc1"
@@ -40,7 +40,7 @@ projects[pathauto][version] = "1.0-rc2"
 projects[save_as_draft][type] = module
 projects[save_as_draft][download][type] = "git"
 projects[save_as_draft][subdir] = "contrib"
-projects[save_as_draft][download][url] = git://github.com/lakshminp/save_as_draft.git
+projects[save_as_draft][download][url] = git://github.com/druplug/save_as_draft.git
 
 projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.0"
@@ -48,12 +48,12 @@ projects[scheduler][version] = "1.0"
 projects[simplify][type] = module
 projects[simplify][download][type] = "git"
 projects[simplify][subdir] = "contrib"
-projects[simplify][download][url] = git://github.com/lakshminp/simplify.git
+projects[simplify][download][url] = git://github.com/druplug/simplify.git
 
 projects[social_share][type] = module
 projects[social_share][download][type] = "git"
 projects[social_share][subdir] = "contrib"
-projects[social_share][download][url] = git://github.com/lakshminp/social_share.git
+projects[social_share][download][url] = git://github.com/druplug/social_share.git
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta4
@@ -88,7 +88,7 @@ projects[wysiwyg][version] = "2.1"
 projects[wysiwyg_features][type] = module
 projects[wysiwyg_features][download][type] = "git"
 projects[wysiwyg_features][subdir] = "custom"
-projects[wysiwyg_features][download][url] = git://github.com/lakshminp/wysiwyg_features.git
+projects[wysiwyg_features][download][url] = git://github.com/druplug/wysiwyg_features.git
 
 projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-beta3"
