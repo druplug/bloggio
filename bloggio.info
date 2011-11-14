@@ -48,6 +48,9 @@ dependencies[] = tweet
 dependencies[] = views
 dependencies[] = wysiwyg
 dependencies[] = xmlsitemap
+dependencies[] = xmlsitemap_engines
+dependencies[] = xmlsitemap_node
+dependencies[] = xmlsitemap_taxonomy
 
 ; custom modules
 dependencies[] = bloggio_features
