@@ -25,6 +25,9 @@ projects[disqus][version] = "1.9"
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-beta10
 
+projects[fblikebutton][subdir] = contrib
+projects[fblikebutton][version] = 1.2
+
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta4"
 
@@ -50,11 +53,6 @@ projects[simplify][download][type] = "git"
 projects[simplify][subdir] = "contrib"
 projects[simplify][download][url] = git://github.com/druplug/simplify.git
 
-projects[social_share][type] = module
-projects[social_share][download][type] = "git"
-projects[social_share][subdir] = "contrib"
-projects[social_share][download][url] = git://github.com/druplug/social_share.git
-
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta4
 
@@ -63,6 +61,9 @@ projects[styles][version] = 2.0-alpha8
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.0-beta5"
+
+projects[tweet][subdir] = contrib
+projects[tweet][version] = 4.4
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.0-rc1"
