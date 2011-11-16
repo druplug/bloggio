@@ -91,8 +91,10 @@ projects[wysiwyg_features][download][type] = "git"
 projects[wysiwyg_features][subdir] = "custom"
 projects[wysiwyg_features][download][url] = git://github.com/druplug/wysiwyg_features.git
 
-projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][version] = "2.0-beta3"
+projects[xmlsitemap][type] = module
+projects[xmlsitemap][download][type] = "git"
+projects[xmlsitemap][subdir] = "custom"
+projects[xmlsitemap][download][url] = git://github.com/druplug/xmlsitemap.git
 
 ; Development related
 projects[coder][subdir] = "dev"
