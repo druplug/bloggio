@@ -30,6 +30,8 @@ projects[fblikebutton][version] = 1.2
 
 projects[features][subdir] = "contrib"
 projects[features][version] = "1.0-beta4"
+projects[features][patch][] = "http://drupal.org/files/issues/features.shortcut_sets_0.patch"
+; adding ability to import menu shortcuts as features, issue: http://drupal.org/node/986968
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 1.x-dev
@@ -42,7 +44,7 @@ projects[pathauto][version] = "1.0-rc2"
 
 projects[save_as_draft][type] = module
 projects[save_as_draft][download][type] = "git"
-projects[save_as_draft][subdir] = "contrib"
+projects[save_as_draft][subdir] = "custom"
 projects[save_as_draft][download][url] = git://github.com/druplug/save_as_draft.git
 
 projects[scheduler][subdir] = "contrib"
@@ -107,8 +109,11 @@ projects[simpletest][subdir] = "dev"
 projects[simpletest][version] = "2.0"
 
 ; Themes
-projects[blogbuzz][subdir] = "contrib"
-projects[blogbuzz][version] = "1.0-rc2"
+projects[tao][subdir] = "contrib"
+projects[tao][version] = "3.0-beta4"
+
+projects[rubik][subdir] = "contrib"
+projects[rubik][version] = "4.0-beta6"
 
 ; Libraries
 libraries[tinymce][download][type] = "get"
