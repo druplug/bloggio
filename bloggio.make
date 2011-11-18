@@ -39,6 +39,12 @@ projects[file_entity][version] = 1.x-dev
 projects[media][subdir] = "contrib"
 projects[media][version] = "1.0-rc1"
 
+projects[migrate][subdir] = "contrib"
+projects[migrate][version] = "2.2"
+
+projects[wordpress_migrate][subdir] = "contrib"
+projects[wordpress_migrate][version] = "1.x-dev"
+
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.0-rc2"
 
