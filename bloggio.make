@@ -101,11 +101,6 @@ projects[rubik][subdir] = "contrib"
 projects[rubik][version] = "4.0-beta6"
 
 ; Libraries
-libraries[tinymce][download][type] = "get"
-libraries[tinymce][download][url] = "http://www.tinymce.com/track.php?url=http://github.com/downloads/tinymce/tinymce/tinymce_3.4.6.zip"
-libraries[tinymce][download][directory_name] = "tinymce"
-libraries[tinymce][download][destination] = "libraries"
-
 libraries[ckeditor][download][type] = "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.zip"
 libraries[ckeditor][download][directory_name] = "ckeditor"
