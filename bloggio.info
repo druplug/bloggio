@@ -4,7 +4,6 @@ version = 1.0
 core = 7.x
 
 ; standard modules
-dependencies[] = admin
 dependencies[] = block
 dependencies[] = blog
 dependencies[] = color
@@ -30,6 +29,7 @@ dependencies[] = toolbar
 dependencies[] = user
 
 ; contrib modules
+dependencies[] = backup_migrate
 dependencies[] = contact_forms
 dependencies[] = ctools
 dependencies[] = date
@@ -39,7 +39,9 @@ dependencies[] = disqus
 dependencies[] = entity
 dependencies[] = fblikebutton
 dependencies[] = features
+dependencies[] = google_analytics
 dependencies[] = media
+dependencies[] = media_internet
 dependencies[] = migrate
 dependencies[] = wordpress_migrate
 dependencies[] = pathauto
