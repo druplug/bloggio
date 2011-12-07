@@ -38,7 +38,7 @@ projects[features][version] = 1.0-beta4
 projects[features][patch][] = http://drupal.org/files/issues/features.shortcut_sets_0.patch
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 1.x-dev
+projects[file_entity][version] = 2.x-dev
 
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.2
