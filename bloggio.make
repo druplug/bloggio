@@ -4,11 +4,11 @@ core = 7.x
 api = 2
 
 ; fix for dynamic titles in shortcuts menu. Refer http://drupal.org/node/686440
-projects[drupal][patch][] = "http://drupal.org/files/issues/shortcut-dynamic-link-titles-686440-13.patch"
+projects[drupal][patch][] = http://drupal.org/files/issues/shortcut-dynamic-link-titles-686440-13.patch
 
 projects[bloggio_features][type] = module
-projects[bloggio_features][download][type] = "git"
-projects[bloggio_features][subdir] = "custom"
+projects[bloggio_features][download][type] = git
+projects[bloggio_features][subdir] = custom
 projects[bloggio_features][download][url] = git://github.com/druplug/bloggio_features.git
 
 projects[backup_migrate][subdir] = contrib
@@ -40,8 +40,11 @@ projects[features][patch][] = http://drupal.org/files/issues/features.shortcut_s
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.x-dev
 
-projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = 1.2
+projects[google_analytics][type] = module
+projects[google_analytics][download][type] = git
+projects[google_analytics][subdir] = custom
+projects[google_analytics][download][url] = git://github.com/druplug/google_analytics.git
+
 
 projects[media][subdir] = contrib
 projects[media][version] = 1.0-rc1
