@@ -21,13 +21,13 @@ projects[contact_forms][subdir] = contrib
 projects[contact_forms][version] = 1.2
 
 projects[date][subdir] = contrib
-projects[date][version] = 2.0-alpha4
+projects[date][version] = 2.0-alpha5
 
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.9
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.0-beta10
+projects[entity][version] = 1.0-rc1
 
 projects[fblikebutton][subdir] = contrib
 projects[fblikebutton][version] = 1.2
@@ -47,7 +47,7 @@ projects[google_analytics][download][url] = git://github.com/druplug/google_anal
 
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.0-rc1
+projects[media][version] = 1.0-rc2
 
 projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.2
@@ -56,7 +56,7 @@ projects[wordpress_migrate][subdir] = contrib
 projects[wordpress_migrate][version] = 1.x-dev
 
 projects[pathauto][subdir] = contrib
-projects[pathauto][version] = 1.0-rc2
+projects[pathauto][version] = 1.0
 
 projects[save_as_draft][type] = module
 projects[save_as_draft][download][type] = git
@@ -78,7 +78,7 @@ projects[styles][subdir] = contrib
 projects[styles][version] = 2.0-alpha8
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.0-beta5
+projects[token][version] = 1.0-beta7
 
 projects[tweet][subdir] = contrib
 projects[tweet][version] = 4.4
