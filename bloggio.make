@@ -23,6 +23,9 @@ projects[contact_forms][version] = 1.2
 projects[date][subdir] = contrib
 projects[date][version] = 2.0-alpha5
 
+projects[context][subdir] = contrib
+projects[context][version] = 3.0-beta3
+
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.9
 
@@ -39,6 +42,9 @@ projects[features][patch][] = http://drupal.org/files/issues/features.shortcut_s
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.x-dev
+
+projects[flexslider][subdir] = contrib
+projects[flexslider][version] = 1.0-rc3
 
 projects[google_analytics][type] = module
 projects[google_analytics][download][type] = git
@@ -110,6 +116,12 @@ projects[devel][version] = 1.2
 projects[simpletest][subdir] = dev
 projects[simpletest][version] = 2.0
 
+projects[omega_tools][subdir] = dev
+projects[omega_tools][version] = 3.0-rc4
+
+projects[delta][subdir] = dev
+projects[delta][version] = 3.0-beta9
+
 ; Themes
 projects[tao][subdir] = contrib
 projects[tao][version] = 3.0-beta4
@@ -117,9 +129,17 @@ projects[tao][version] = 3.0-beta4
 projects[rubik][subdir] = contrib
 projects[rubik][version] = 4.0-beta6
 
+projects[omega][subdir] = contrib
+projects[omega][version] = 3.x-dev
+
 ; Libraries
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.zip
 libraries[ckeditor][download][directory_name] = ckeditor
 libraries[ckeditor][download][destination] = libraries
+
+libraries[flexslider][download][type] = get
+libraries[flexslider][download][url] = https://github.com/downloads/woothemes/FlexSlider/FlexSlider-1.8.zip
+libraries[flexslider][download][directory_name] = flexslider
+libraries[flexslider][download][destination] = libraries
 
