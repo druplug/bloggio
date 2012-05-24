@@ -43,6 +43,7 @@ dependencies[] = fblikebutton
 dependencies[] = features
 dependencies[] = flexslider
 dependencies[] = google_analytics
+dependencies[] = libraries
 dependencies[] = media
 dependencies[] = media_internet
 dependencies[] = migrate

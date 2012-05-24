@@ -52,6 +52,9 @@ projects[google_analytics][subdir] = custom
 projects[google_analytics][download][url] = git://github.com/druplug/google_analytics.git
 
 
+projects[libraries][subdir] = contrib
+projects[libraries][version] = 1.0
+
 projects[media][subdir] = contrib
 projects[media][version] = 1.0-rc2
 
