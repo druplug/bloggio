@@ -91,6 +91,9 @@ projects[simplify][download][url] = git://github.com/druplug/simplify.git
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta4
 
+projects[superfish][subdir] = contrib
+projects[superfish][version] = 1.8
+
 projects[styles][subdir] = contrib
 projects[styles][version] = 2.0-alpha8
 
@@ -192,4 +195,10 @@ libraries[autopager][download][destination] = libraries
 libraries[modernizr][download][type] = get
 libraries[modernizr][download][url] = http://52framework.googlecode.com/svn-history/r36/trunk/js/modernizr-1.7.min.js
 libraries[modernizr][download][destination] = libraries
+
+# superfish
+libraries[superfish][download][type] = get
+libraries[superfish][download][url] = http://dl.dropbox.com/u/1971103/superfish.zip
+libraries[superfish][download][directory_name] = superfish
+libraries[superfish][download][destination] = libraries
 

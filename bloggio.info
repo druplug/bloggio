@@ -59,6 +59,7 @@ dependencies[] = wordpress_migrate
 dependencies[] = pathauto
 dependencies[] = scheduler
 dependencies[] = strongarm
+dependencies[] = superfish
 dependencies[] = token
 dependencies[] = tweet
 dependencies[] = views
