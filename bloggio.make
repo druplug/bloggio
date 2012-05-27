@@ -57,6 +57,9 @@ projects[google_analytics][subdir] = custom
 projects[google_analytics][download][url] = git://github.com/druplug/google_analytics.git
 
 
+projects[jquery_update][subdir] = contrib
+projects[jquery_update][version] = 2.2
+
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 1.0
 
@@ -175,7 +178,6 @@ libraries[isotope][download][destination] = libraries
 
 # cycle
 libraries[cycle][download][type] = get
-# rename this??
 libraries[cycle][download][url] = https://github.com/downloads/malsup/cycle/jquery.cycle.all.latest.min.js
 libraries[cycle][download][directory_name] = jquery.cycle
 libraries[cycle][download][destination] = libraries
