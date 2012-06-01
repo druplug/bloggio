@@ -14,7 +14,7 @@
 function bloggio_install() {
 
   // Enable some standard blocks.
-  $default_theme = variable_get('theme_default', 'comet');
+  $default_theme = 'comet';
   $admin_theme = 'rubik';
   $blocks = array(
     array(
