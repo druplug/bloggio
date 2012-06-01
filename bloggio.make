@@ -162,6 +162,11 @@ projects[rubik][version] = 4.0-beta6
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.x-dev
 
+projects[comet][type] = theme
+projects[comet][download][type] = hg
+projects[comet][subdir] = custom
+projects[comet][download][url] = ssh://hg@bitbucket.org/lakshminp/comet
+
 ; Libraries
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.zip
