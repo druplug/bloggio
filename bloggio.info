@@ -62,6 +62,7 @@ dependencies[] = strongarm
 dependencies[] = superfish
 dependencies[] = tweet
 dependencies[] = views
+dependencies[] = views_accordion
 dependencies[] = views_fluidgrid
 dependencies[] = views_infinite_scroll
 dependencies[] = views_isotope

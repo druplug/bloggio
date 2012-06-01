@@ -122,6 +122,9 @@ projects[views_isotope][version] = 1.0-beta2
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
 
+projects[views_accordion][subdir] = contrib
+projects[views_accordion][version] = 1.0-rc1
+
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.1
 
