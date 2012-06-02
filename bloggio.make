@@ -181,30 +181,26 @@ libraries[flexslider][download][url] = https://github.com/downloads/woothemes/Fl
 libraries[flexslider][download][directory_name] = flexslider
 libraries[flexslider][download][destination] = libraries
 
-# isotope
 libraries[isotope][download][type] = get
 libraries[isotope][download][url] = http://isotope.metafizzy.co/jquery.isotope.min.js
 libraries[isotope][download][directory_name] = jquery.isotope
 libraries[isotope][download][destination] = libraries
 
-# cycle
 libraries[cycle][download][type] = get
 libraries[cycle][download][url] = https://github.com/downloads/malsup/cycle/jquery.cycle.all.latest.min.js
 libraries[cycle][download][directory_name] = jquery.cycle
 libraries[cycle][download][destination] = libraries
 
-# infinite scroll
 libraries[autopager][download][type] = get
 libraries[autopager][download][url] = http://jquery-autopager.googlecode.com/files/jquery.autopager-1.0.0.js 
 libraries[autopager][download][directory_name] = autopager
 libraries[autopager][download][destination] = libraries
 
-# modernizr
 libraries[modernizr][download][type] = get
 libraries[modernizr][download][url] = http://52framework.googlecode.com/svn-history/r36/trunk/js/modernizr-1.7.min.js
+libraries[modernizr][download][directory_name] = modernizr
 libraries[modernizr][download][destination] = libraries
 
-# superfish
 libraries[superfish][download][type] = get
 libraries[superfish][download][url] = http://dl.dropbox.com/u/1971103/superfish.zip
 libraries[superfish][download][directory_name] = superfish
