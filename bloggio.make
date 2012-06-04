@@ -64,16 +64,16 @@ projects[libraries][subdir] = contrib
 projects[libraries][version] = 1.0
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.0-rc2
+projects[media][version] = 1.1
 
 projects[migrate][subdir] = contrib
-projects[migrate][version] = 2.2
+projects[migrate][version] = 2.4
 
 projects[wordpress_migrate][subdir] = contrib
 projects[wordpress_migrate][version] = 1.x-dev
 
 projects[pathauto][subdir] = contrib
-projects[pathauto][version] = 1.0
+projects[pathauto][version] = 1.1
 
 projects[save_as_draft][type] = module
 projects[save_as_draft][download][type] = git
