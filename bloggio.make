@@ -66,6 +66,9 @@ projects[libraries][version] = 1.0
 projects[media][subdir] = contrib
 projects[media][version] = 1.1
 
+projects[metatag][subdir] = contrib
+projects[metatag][version] = 1.0-alpha6
+
 projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.4
 
