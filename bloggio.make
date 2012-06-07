@@ -11,9 +11,6 @@ projects[bloggio_features][download][type] = git
 projects[bloggio_features][subdir] = custom
 projects[bloggio_features][download][url] = git://github.com/druplug/bloggio_features.git
 
-projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 2.2
-
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.0-rc1
 
@@ -25,11 +22,6 @@ projects[date][version] = 2.0-alpha5
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta3
-
-projects[demo_views][type] = module
-projects[demo_views][download][type] = git
-projects[demo_views][subdir] = custom
-projects[demo_views][download][url] = git@bitbucket.org:lakshminp/demo_views.git
 
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.9
@@ -69,19 +61,8 @@ projects[media][version] = 1.1
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-alpha6
 
-projects[migrate][subdir] = contrib
-projects[migrate][version] = 2.4
-
-projects[wordpress_migrate][subdir] = contrib
-projects[wordpress_migrate][version] = 1.x-dev
-
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.1
-
-projects[save_as_draft][type] = module
-projects[save_as_draft][download][type] = git
-projects[save_as_draft][subdir] = custom
-projects[save_as_draft][download][url] = git://github.com/druplug/save_as_draft.git
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.0
@@ -94,25 +75,14 @@ projects[simplify][download][url] = git://github.com/druplug/simplify.git
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta4
 
-projects[superfish][subdir] = contrib
-projects[superfish][version] = 1.8
-
 projects[styles][subdir] = contrib
 projects[styles][version] = 2.0-alpha8
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.0-beta7
 
-projects[tweet][subdir] = contrib
-projects[tweet][version] = 4.4
-
 projects[views][subdir] = contrib
 projects[views][version] = 3.0-rc1
-
-projects[views_fluidgrid][type] = module
-projects[views_fluidgrid][download][type] = git
-projects[views_fluidgrid][subdir] = custom
-projects[views_fluidgrid][download][url] = git://github.com/druplug/views_fluidgrid.git
 
 projects[views_infinite_scroll][type] = module
 projects[views_infinite_scroll][download][type] = git
@@ -124,9 +94,6 @@ projects[views_isotope][version] = 1.0-beta2
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
-
-projects[views_accordion][subdir] = contrib
-projects[views_accordion][version] = 1.0-rc1
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.1
@@ -143,15 +110,6 @@ projects[xmlsitemap][subdir] = custom
 projects[xmlsitemap][download][url] = git://github.com/druplug/xmlsitemap.git
 
 ; Development related
-projects[coder][subdir] = dev
-projects[coder][version] = 1.0
-
-projects[devel][subdir] = dev
-projects[devel][version] = 1.2
-
-projects[simpletest][subdir] = dev
-projects[simpletest][version] = 2.0
-
 projects[omega_tools][subdir] = dev
 projects[omega_tools][version] = 3.0-rc4
 
@@ -198,14 +156,4 @@ libraries[autopager][download][type] = get
 libraries[autopager][download][url] = http://jquery-autopager.googlecode.com/files/jquery.autopager-1.0.0.js 
 libraries[autopager][download][directory_name] = autopager
 libraries[autopager][download][destination] = libraries
-
-libraries[modernizr][download][type] = get
-libraries[modernizr][download][url] = http://52framework.googlecode.com/svn-history/r36/trunk/js/modernizr-1.7.min.js
-libraries[modernizr][download][directory_name] = modernizr
-libraries[modernizr][download][destination] = libraries
-
-libraries[superfish][download][type] = get
-libraries[superfish][download][url] = http://dl.dropbox.com/u/1971103/superfish.zip
-libraries[superfish][download][directory_name] = superfish
-libraries[superfish][download][destination] = libraries
 

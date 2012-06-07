@@ -30,7 +30,6 @@ dependencies[] = toolbar
 dependencies[] = user
 
 ; contrib modules
-dependencies[] = backup_migrate
 dependencies[] = contact_forms
 dependencies[] = context
 dependencies[] = context_ui
@@ -40,9 +39,7 @@ dependencies[] = date_api
 dependencies[] = date_popup
 dependencies[] = delta
 dependencies[] = delta_ui
-dependencies[] = demo_views
 dependencies[] = disqus
-dependencies[] = devel_generate
 dependencies[] = entity
 dependencies[] = fblikebutton
 dependencies[] = features
@@ -55,17 +52,13 @@ dependencies[] = libraries
 dependencies[] = media
 dependencies[] = media_internet
 dependencies[] = metatag
-dependencies[] = migrate
 dependencies[] = omega_tools
-dependencies[] = wordpress_migrate
 dependencies[] = pathauto
 dependencies[] = scheduler
 dependencies[] = strongarm
-dependencies[] = superfish
 dependencies[] = tweet
 dependencies[] = views
 dependencies[] = views_accordion
-dependencies[] = views_fluidgrid
 dependencies[] = views_infinite_scroll
 dependencies[] = views_isotope
 dependencies[] = views_slideshow
@@ -79,7 +72,6 @@ dependencies[] = xmlsitemap_taxonomy
 ; custom modules
 dependencies[] = bloggio_features
 dependencies[] = wysiwyg_features
-dependencies[] = save_as_draft
 dependencies[] = simplify
 
 files[] = bloggio.profile
