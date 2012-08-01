@@ -12,16 +12,16 @@ projects[bloggio_features][subdir] = custom
 projects[bloggio_features][download][url] = git://github.com/druplug/bloggio_features.git
 
 projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 2.2
+projects[backup_migrate][version] = 2.4
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.0-rc1
+projects[ctools][version] = 1.0
 
 projects[contact_forms][subdir] = contrib
-projects[contact_forms][version] = 1.2
+projects[contact_forms][version] = 1.3
 
 projects[date][subdir] = contrib
-projects[date][version] = 2.0-alpha5
+projects[date][version] = 2.5
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta3
@@ -147,7 +147,7 @@ projects[coder][subdir] = dev
 projects[coder][version] = 1.0
 
 projects[devel][subdir] = dev
-projects[devel][version] = 1.2
+projects[devel][version] = 1.3
 
 projects[simpletest][subdir] = dev
 projects[simpletest][version] = 2.0
@@ -156,7 +156,7 @@ projects[omega_tools][subdir] = dev
 projects[omega_tools][version] = 3.0-rc4
 
 projects[delta][subdir] = dev
-projects[delta][version] = 3.0-beta9
+projects[delta][version] = 3.0-beta11
 
 ; Themes
 projects[tao][subdir] = contrib
