@@ -171,7 +171,7 @@ projects[omega][version] = 3.x-dev
 projects[tiles][type] = theme
 projects[tiles][download][type] = hg
 projects[tiles][subdir] = custom
-projects[tile][download][url] = ssh://hg@bitbucket.org/lakshminp/tiles
+projects[tiles][download][url] = ssh://hg@bitbucket.org/lakshminp/tiles
 
 ; Libraries
 libraries[ckeditor][download][type] = get
