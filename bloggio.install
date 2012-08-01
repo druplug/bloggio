@@ -14,7 +14,7 @@
 function bloggio_install() {
 
   // Enable some standard blocks.
-  $default_theme = 'comet';
+  $default_theme = 'tiles';
   $admin_theme = 'rubik';
   $blocks = array(
     array(
@@ -139,8 +139,8 @@ function bloggio_install() {
   db_update('system')
     ->fields(array('status' => 1))
     ->condition('type', 'theme')
-    ->condition('name', 'comet')
+    ->condition('name', 'tiles')
     ->execute();
-  variable_set('theme_default', 'comet');
+  variable_set('theme_default', 'tiles');
   variable_set('node_admin_theme', '1');
 }

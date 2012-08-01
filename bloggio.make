@@ -168,10 +168,10 @@ projects[rubik][version] = 4.0-beta6
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.x-dev
 
-projects[comet][type] = theme
-projects[comet][download][type] = hg
-projects[comet][subdir] = custom
-projects[comet][download][url] = ssh://hg@bitbucket.org/lakshminp/comet
+projects[tiles][type] = theme
+projects[tiles][download][type] = hg
+projects[tiles][subdir] = custom
+projects[tile][download][url] = ssh://hg@bitbucket.org/lakshminp/tiles
 
 ; Libraries
 libraries[ckeditor][download][type] = get
