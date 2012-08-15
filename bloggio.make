@@ -26,10 +26,10 @@ projects[date][version] = 2.5
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta3
 
-projects[demo_views][type] = module
-projects[demo_views][download][type] = git
-projects[demo_views][subdir] = custom
-projects[demo_views][download][url] = git@bitbucket.org:lakshminp/demo_views.git
+;projects[demo_views][type] = module
+;projects[demo_views][download][type] = git
+;projects[demo_views][subdir] = custom
+;projects[demo_views][download][url] = git@bitbucket.org:lakshminp/demo_views.git
 
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.9
