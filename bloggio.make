@@ -91,6 +91,9 @@ projects[simplify][download][type] = git
 projects[simplify][subdir] = contrib
 projects[simplify][download][url] = git://github.com/druplug/simplify.git
 
+projects[skinr][subdir] = contrib
+projects[skinr][version] = 2.0-beta1
+
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta4
 
